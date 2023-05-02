@@ -1,4 +1,4 @@
 export const URL =
-  "https://3001-rlence-proyectofinalexa-cjt25flpn3s.ws-eu96.gitpod.io/api";
+  "https://3001-ronaldodair-projectfina-xfptvq8xumy.ws-eu96.gitpod.io/api";
 
 export * from "./user";
