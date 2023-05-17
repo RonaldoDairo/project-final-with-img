@@ -24,7 +24,7 @@ export const Single = (props) => {
     <div className="jumbotron">
       <p>email: {state.email}</p>
       <p>id: {state.id}</p>
-      <img src={state.avatar}></img>
+      <img src={state.avatar} ></img>
     </div>
   );
 };
